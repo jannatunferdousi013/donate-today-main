@@ -1,0 +1,227 @@
+body{
+    font-family: "Open sans",sans-serif;
+}
+.back-img{
+    background-image: url(images/donation2.jpg);
+    background-repeat: no-repeat ;
+    background-size: 100% 100%;
+    margin-top: 0px;
+    
+}
+.lets{
+margin: 0px 407px 0px 407px;
+font-size: 65px;
+font-weight: 700;
+text-align: center;
+padding-top: 182px;
+color: white;
+}
+.lorem{
+    margin: 20px 550px 0px 550px;
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;
+    color: white;
+}
+.donate-1{
+    margin: 30px 640px 174px 740px;
+    border: none;
+    border-radius: 5px;
+    background-color:#ff5959 ;
+    color: white;
+    padding: 16px 31px;
+    font-weight: 600;
+    font-size: 20px;
+}
+.now{
+    margin: 30px 640px 0px 760px;
+    border: none;
+    border-radius: 5px;
+    background-color:#ff5959 ;
+    color: white;
+    padding: 16px 20px;
+    font-weight: 600;
+    font-size: 20px;
+}
+.today{
+    font-size: 45px;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 130px;
+}
+.lorem-2{
+    font-weight: 400;
+    font-size: 18px;
+    color: #939393;
+    margin: 20px 550px 0px 550px;
+    text-align: center;
+}
+.ul{
+    display: flex;
+    margin:50px 407px 60px 407px ;
+
+
+}
+ul li{
+    list-style: none;
+    margin-left: 22px;
+    color: #707070;
+    font-weight: 700;
+    font-size: 30px;
+    padding: 44px 15px;
+    background-color: #fafafa;
+    border-radius: 5px;
+}
+.tk200{
+    color: #ff5959;
+    border: solid 1px #ff5959;
+    background-color: #ffeeee;
+    border-radius: 5px;
+}
+.other{
+    text-align: center;
+    color: #b3b3b3;
+    font-weight: 400;
+    font-size: 18px;
+}
+.hr{
+    margin: 10px 407px ;
+    
+}
+.display1{
+    display: flex;
+    margin: 50px 180px 0px 180px;
+}
+.back-blu{
+    background-color: #eef6f7;
+   
+}
+.back-pinck{
+    background-color:#ffefef ;
+    margin-left: 50px;
+}
+.back-oreng{
+    background-color:#fff4d6 ;
+    margin-left: 50px;
+}
+.family{
+    font-size: 24px;
+    font-weight: 400;
+    padding-left: 23px;
+    padding-bottom: 29px;
+}
+.amet{
+    font-weight: 400;
+    font-size: 16px;
+    color: #818080;
+    padding-bottom: 54px;
+    padding-left: 23px;
+    padding-right: 22px;
+}
+.icon{
+    padding: 62px 0px 29px 28px ;
+}
+.porer{
+    display: flex;
+}
+.their{
+    font-weight: 700;
+    font-size: 45px;
+    margin: 182px 83px 20px 157px;
+}
+.lorem-3{
+    font-size: 18px;
+    font-weight: 400;
+    margin-left:157px ;
+    margin-right:83px ;
+    color: #aeaeae;
+}
+.how{
+    border: none;
+    border-radius: 5px;
+    background-color:#ff5959 ;
+    color: white;
+    padding: 16px 20px;
+    font-weight: 400;
+    font-size: 18px;
+    margin-top: 30px;
+    margin-left: 156px;
+}
+.img-1{
+    margin-top: 130px;
+    margin-right: 252px;
+}
+.img-2{
+    margin-left: 156px;
+    margin-top: 151px;
+}
+.all{
+    margin: 152px 252px 181px 94px;
+}
+.they{
+    font-weight: 700;
+    font-size: 45px;
+}
+.lorem-4{
+    font-size: 18px;
+    font-weight: 400;
+    color: #aeaeae;
+}
+.howto{
+    border: none;
+    border-radius: 5px;
+    background-color:#ff5959 ;
+    color: white;
+    padding: 16px 20px;
+    font-weight: 400;
+    font-size: 18px;
+    margin-top: 30px;
+}
+.get{
+text-align: center;
+margin-top: 130px;
+margin: 20px 475px 50px 475px;
+}
+.backg{
+    background-color:#fff4d6 ;
+    margin: 0px 415px 130px 415px;
+    padding: 76px 245px 76px 189px;
+}
+.finput{
+padding: 14px 38px 14px 17px;
+background-color: #d9d9d9;
+border: none;
+
+font-weight: 500;
+    font-size: 16;
+}
+.subs{
+    background-color: #ff5959;
+    color: white;
+    padding: 14px 42px;
+    border: none;
+    font-weight: 500;
+    font-size: 16;
+    border-radius: 5px;
+}
+.foot{
+    background-color: #0b0d17;
+}
+.be{
+    color: #ff5959;
+    text-align: center;
+    padding-top: 43px;
+    margin-bottom: 48px;
+    font-family: "Lobster", sans-serif; 
+    font-weight: 400 ;
+    font-size: 36px;
+}
+.gonna{
+color: #8c8e95;
+text-align: center;
+padding-bottom: 42px;
+font-weight: 400;
+font-size: 14px;
+font-family: "Manrope", sans-serif;
+
+}
